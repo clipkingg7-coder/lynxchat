@@ -1,0 +1,16 @@
+{
+  "name": "lynx-chat",
+  "version": "3.0.0",
+  "description": "LYNX CHAT v3 — Stranger chat with video, voice, text, country matching and soundboard.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
